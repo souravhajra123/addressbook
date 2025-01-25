@@ -1,5 +1,4 @@
-Created Pipeline View on 25th Jan 2025
-this is new line
+Created Pipeline View
 Addressbook Tutorial
 ====================
 
